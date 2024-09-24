@@ -1,1 +1,1 @@
-# php adn javaScript
+# php and javaScript
